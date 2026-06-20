@@ -1,0 +1,13 @@
+[package]
+name = "rust_example_control_flow"
+version = "1.0.0"
+edition = "2021"
+rust-version = "1.80"
+description = "Exemplo didatico de fluxo de controle e estruturas da linguagem."
+authors = ["Engineering Team <engineering@example.com>"]
+license = "MIT"
+repository = "https://git.example.com/rust-example-control-flow"
+keywords = ["reference", "example"]
+readme = "README.md"
+
+[dependencies]
